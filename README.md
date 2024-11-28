@@ -1,4 +1,4 @@
-# Study Notion (MERN Stack)
+# Study Notion (MERN Stack) (Backend)
 
 This repository contains the codebase for a fully functional EdTech platform built as a final-year project using the MERN (MongoDB, Express, React, Node.js) stack. This platform provides a role-based access system for instructors and students, enabling instructors to create and price courses and students to purchase and access them. The project includes secure authentication and integrates a payment gateway using Razorpay API.
 
