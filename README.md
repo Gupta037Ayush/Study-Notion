@@ -87,11 +87,12 @@ MONGO_URI=<your_mongodb_connection_string>
 JWT_SECRET=<your_jwt_secret_key>
 RAZORPAY_KEY_ID=<your_razorpay_key_id>
 RAZORPAY_KEY_SECRET=<your_razorpay_key_secret>
-
+```
 
 ### Testing
-1. **Clone the repository**:
+1. **Test the repository**:
+   Use Postman to test the backend APIs of this project
     ```bash
-    git clone https://github.com/yourusername/edtech-platform.git
-    cd edtech-platform
+   https://documenter.getpostman.com/view/24441701/2s93kz6REm
     ```
+   Go to this link to check and test all the APIs of this RBAC implementation.
